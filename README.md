@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I'm a Jr. Web Developer passionate about building interactive and dynamic web applications. I have experience working with HTML, CSS, JavaScript,  React, NodeJs, ExpressJs, Mongodb, and Firebase. I constantly learn and explore new technologies to enhance my skills and create better user experiences. Check out my repositories to see some of the projects I've been working on!
+I'm a Jr. Web Developer passionate about building interactive and dynamic web applications. I have experience working with HTML, CSS, JavaScript,  React, Node.js, Express.js, Mongodb, and Firebase. I constantly learn and explore new technologies to enhance my skills and create better user experiences. Check out my repositories to see some of the projects I've been working on!
 
 
 ## :chart_with_upwards_trend: Current Stats
