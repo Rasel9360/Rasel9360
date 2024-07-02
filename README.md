@@ -6,7 +6,7 @@
 I'm a Jr. Web Developer passionate about building interactive and dynamic web applications. I have experience working with HTML, CSS, JavaScript,  React, NodeJs, ExpressJs, Mongodb, and Firebase. I constantly learn and explore new technologies to enhance my skills and create better user experiences. Check out my repositories to see some of the projects I've been working on!
 
 ## :chart_with_upwards_trend: Current Stats
-![GitHub streak stats](https://streak-stats.demolab.com/?user=/Rasel9360)
+<div align="center">![GitHub streak stats](https://streak-stats.demolab.com/?user=/Rasel9360)</div>
 
 ## :eyes: Current overview
 - 🔭 I’m currently working on Triune Group as a Hardware Engineer 
