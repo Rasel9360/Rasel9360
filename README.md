@@ -12,13 +12,14 @@ I'm a Jr. Web Developer passionate about building interactive and dynamic web ap
 
 
 ## 👨‍💻 Skills & Experience:  
-✅ HTML5 / CSS3 / SASS / Tailwind CSS <br>
-✅ JavaScript <br>
-✅ React <br>
-✅ NodeJs <br>
-✅ ExpressJs <br>
-✅ Mongodb <br>
-✅ Firebase <be>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasel9360)](https://github.com/anuraghazra/github-readme-stats)
 
