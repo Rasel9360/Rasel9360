@@ -11,7 +11,7 @@ I'm a Jr. Web Developer passionate about building interactive and dynamic web ap
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=/Rasel9360)
 
 
-## 👨‍💻 Skills & Experience:  
+## 👨‍💻 Technologies that I know:  
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
