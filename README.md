@@ -6,7 +6,12 @@
 I'm a Jr. Web Developer passionate about building interactive and dynamic web applications. I have experience working with HTML, CSS, JavaScript,  React, NodeJs, ExpressJs, Mongodb, and Firebase. I constantly learn and explore new technologies to enhance my skills and create better user experiences. Check out my repositories to see some of the projects I've been working on!
 
 ## :chart_with_upwards_trend: Current Stats
+<--!-->
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=/Rasel9360)
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=/Rasel9360&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 ## 👨‍💻 Skills & Experiance: 
 <br>
